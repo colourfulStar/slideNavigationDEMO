@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "958855C6D7EDDBAF9D826B761B67F7D13A6F5D2A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "958855C6D7EDDBAF9D826B761B67F7D13A6F5D2A" : 9223372036854775807,
+    "22D238356C2C9509215B8957761B7FB3328019A3" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C0E2E2B7-233F-4E63-88D8-E894A3E80AE7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "958855C6D7EDDBAF9D826B761B67F7D13A6F5D2A" : "slideNavigationDemo\/",
+    "22D238356C2C9509215B8957761B7FB3328019A3" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "slideNavigationDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "slideNavigationDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/colourfulStar\/slideNavDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "22D238356C2C9509215B8957761B7FB3328019A3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/colourfulStar\/slideNavigationDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "958855C6D7EDDBAF9D826B761B67F7D13A6F5D2A"
+    }
+  ]
+}
